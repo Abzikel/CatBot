@@ -32,7 +32,7 @@ pip install PyQt5 pyautogui
 If you are running the script directly, execute:
 
 ```bash
-python tu_script.py
+python catbot.py
 ```
 
 ## Creating the Executable
