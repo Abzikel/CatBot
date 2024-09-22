@@ -46,7 +46,7 @@ pip install pyinstaller
 Then, navigate to the directory where your script is located and run the following command:
 
 ```bash
-pyinstaller --onefile --windowed tu_script.py
+pyinstaller --onefile --windowed catbot.py
 ```
 
 - `--onefile`: Packages everything into a single executable.
